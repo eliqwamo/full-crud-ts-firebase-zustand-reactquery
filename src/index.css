@@ -1,0 +1,9 @@
+html, body{
+  background-color: #052767;
+}
+p{
+  color: #ffffff;
+}
+.form-control{
+  margin-bottom: 12px;
+}
